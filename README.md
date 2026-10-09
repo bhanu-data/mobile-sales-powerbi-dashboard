@@ -183,7 +183,7 @@ Potential business applications include:
 
 ## 🖼️ 7. Dashboard Preview
 
-![Mobile Sales Analytics Dashboard]
+![Mobile Sales Analytics Dashboard] https://github.com/bhanu-data/mobile-sales-powerbi-dashboard/blob/main/Mobile%20Sales%20Dashboard.png
 
 ## 📁 8. Repository Structure
 
@@ -194,9 +194,6 @@ mobile-sales-powerbi-dashboard/
 ├── dashboard_overview.png
 └── README.md
 ```
-
-- `Mobile_Sales_Dashboard.pbix` — Power BI report containing the dashboard and its visualizations.
-- `dashboard_overview.png` — Screenshot of the completed dashboard.
 
 ## 🚀 9. How to Explore the Project
 
@@ -220,7 +217,7 @@ mobile-sales-powerbi-dashboard/
 
 **Bhanu Pratap Singh**
 
-Aspiring Data Analyst | Business Intelligence | Power BI | SQL | Python
+Data Analyst | Business Intelligence | Power BI | SQL | Python
 
 GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
 
