@@ -213,14 +213,11 @@ mobile-sales-powerbi-dashboard/
 - Improve geographical analysis with regional comparisons and additional location details.
 - Publish the report through an appropriately secured Power BI sharing solution.
 
+  
+https://github.com/bhanu-data/mobile-sales-powerbi-dashboard/blob/main/Mobile%20Sales%20Dashboard.png
+
 ## 👨‍💻 11. Author
 
 **Bhanu Pratap Singh**
-
-Data Analyst | Business Intelligence | Power BI | SQL | Python
-
-GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
-
----
 
 *This project demonstrates the use of interactive business intelligence visualizations to explore sales performance, product trends, customer ratings, and payment behavior using Microsoft Power BI.*
